@@ -1,5 +1,5 @@
 site_name: GenAI
-site_url: https://github.com/kajzer/future-fluent                 
+site_url: https://kajzer.github.io/future-fluent/                 
 repo_url: https://github.com/kajzer/future-fluent
 repo_name: squidfunk/mkdocs-material
 
@@ -40,7 +40,7 @@ extra:
       link: / 
       lang: en
     - name: Polski
-      link: /pl/
+      link: /future-fluent/pl/
       lang: pl
   social:
     - icon: simple/linkedin
