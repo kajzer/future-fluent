@@ -1,6 +1,6 @@
 site_name: GenAI
-site_url: https://sitename.example                 
-repo_url: https://github.com/squidfunk/mkdocs-material
+site_url: https://github.com/kajzer/future-fluent                 
+repo_url: https://github.com/kajzer/future-fluent
 repo_name: squidfunk/mkdocs-material
 
 theme:
