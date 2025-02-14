@@ -1,0 +1,14 @@
+services: 
+  docs:
+    container_name: docs
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: dev
+    ports:
+      - 8000:8000
+    env_file:
+      - .env
+    volumes:
+      - .:${CODE_DIRECTORY}
+    tty: true  
