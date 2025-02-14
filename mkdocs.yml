@@ -1,7 +1,7 @@
 site_name: GenAI
 site_url: https://kajzer.github.io/future-fluent/                 
 repo_url: https://github.com/kajzer/future-fluent
-repo_name: squidfunk/mkdocs-material
+repo_name: kajzer.github.io/future-fluent/
 
 theme:
   name: material
