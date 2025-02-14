@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://kajzer.github.io/future-fluent/</loc>
+        <lastmod>2025-02-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kajzer.github.io/future-fluent/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kajzer.github.io/future-fluent/pl/"/>
+    </url>
+    <url>
+        <loc>https://kajzer.github.io/future-fluent/Docs/Prompt_Engineering/</loc>
+        <lastmod>2025-02-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kajzer.github.io/future-fluent/Docs/Prompt_Engineering/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kajzer.github.io/future-fluent/pl/Docs/Prompt_Engineering/"/>
+    </url>
+    <url>
+        <loc>https://kajzer.github.io/future-fluent/Tutorials/</loc>
+        <lastmod>2025-02-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kajzer.github.io/future-fluent/Tutorials/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kajzer.github.io/future-fluent/pl/Tutorials/"/>
+    </url>
+    <url>
+        <loc>https://kajzer.github.io/future-fluent/Tutorials/Prompt_Engineering/Basics/</loc>
+        <lastmod>2025-02-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kajzer.github.io/future-fluent/Tutorials/Prompt_Engineering/Basics/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kajzer.github.io/future-fluent/pl/Tutorials/Prompt_Engineering/Basics/"/>
+    </url>
+    <url>
+        <loc>https://kajzer.github.io/future-fluent/Tutorials/Prompt_Engineering/Basics/getting_started/</loc>
+        <lastmod>2025-02-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kajzer.github.io/future-fluent/Tutorials/Prompt_Engineering/Basics/getting_started/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kajzer.github.io/future-fluent/pl/Tutorials/Prompt_Engineering/Basics/getting_started/"/>
+    </url>
+    <url>
+        <loc>https://kajzer.github.io/future-fluent/pl/</loc>
+        <lastmod>2025-02-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kajzer.github.io/future-fluent/pl/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kajzer.github.io/future-fluent/"/>
+    </url>
+    <url>
+        <loc>https://kajzer.github.io/future-fluent/pl/Docs/Prompt_Engineering/</loc>
+        <lastmod>2025-02-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kajzer.github.io/future-fluent/pl/Docs/Prompt_Engineering/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kajzer.github.io/future-fluent/Docs/Prompt_Engineering/"/>
+    </url>
+    <url>
+        <loc>https://kajzer.github.io/future-fluent/pl/Tutorials/</loc>
+        <lastmod>2025-02-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kajzer.github.io/future-fluent/pl/Tutorials/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kajzer.github.io/future-fluent/Tutorials/"/>
+    </url>
+    <url>
+        <loc>https://kajzer.github.io/future-fluent/pl/Tutorials/Prompt_Engineering/Basics/</loc>
+        <lastmod>2025-02-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kajzer.github.io/future-fluent/pl/Tutorials/Prompt_Engineering/Basics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kajzer.github.io/future-fluent/Tutorials/Prompt_Engineering/Basics/"/>
+    </url>
+    <url>
+        <loc>https://kajzer.github.io/future-fluent/pl/Tutorials/Prompt_Engineering/Basics/getting_started/</loc>
+        <lastmod>2025-02-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kajzer.github.io/future-fluent/pl/Tutorials/Prompt_Engineering/Basics/getting_started/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kajzer.github.io/future-fluent/Tutorials/Prompt_Engineering/Basics/getting_started/"/>
+    </url>
+</urlset>
