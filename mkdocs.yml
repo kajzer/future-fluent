@@ -1,4 +1,4 @@
-site_name: GenAI
+site_name: Future Fluent
 site_url: https://kajzer.github.io/future-fluent/                 
 repo_url: https://github.com/kajzer/future-fluent
 repo_name: kajzer.github.io/future-fluent/
@@ -37,7 +37,7 @@ theme:
 extra:
   alternate:
     - name: English
-      link: / 
+      link: /future-fluent/ 
       lang: en
     - name: Polski
       link: /future-fluent/pl/

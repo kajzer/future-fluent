@@ -21,5 +21,5 @@ W świecie napędzanym przez inteligentne systemy, Prompt Engineering oraz skute
 </p>
 
 <p align="center">
-  <a class="md-button" href="/Tutorials">Zaczynajmy</a>
+  <a class="md-button" href="/future-fluent/pl/Tutorials">Zaczynajmy</a>
 </p>

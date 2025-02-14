@@ -21,5 +21,5 @@ In a world driven by intelligent systems, prompt engineering and the effective u
 </p>
 
 <p align="center">
-  <a class="md-button" href="/Tutorials">Start Learning</a>
+  <a class="md-button" href="/future-fluent/Tutorials">Start Learning</a>
 </p>
