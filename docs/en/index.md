@@ -9,17 +9,23 @@ hide:
 </figure>
 
 <h1 align="center">
-Welcome to AI Engineering Mastery
+Welcome to Your AI Superpower Toolkit 🤖✨
 </h1>
 
 <h3 align="center">
-Mastering the Craft of Conversational AI and Information Retrieval
+Mastering LLMs: A Deep Dive into Prompt Engineering, Agents, RAGs, and No-Code
 </h3>
 ---
 <p align="center">
-In a world driven by intelligent systems, prompt engineering and the effective use of Retrieval-Augmented Generation (RAG) techniques are at the heart of innovation. Whether you're building dynamic agents or optimizing language models for precision tasks, this guide provides the insights you need to unlock the full potential of conversational AI.
+This guide offers a mix of tutorials, resources, and insights on prompt engineering, AI agents, retrieval-augmented generation (RAG), and no-code tools. Whether you're just starting or looking to expand your knowledge, you'll find useful links, research papers, and practical examples to help you navigate the evolving AI landscape. 🚀
 </p>
 
 <p align="center">
-  <a class="md-button" href="/future-fluent/Tutorials">Start Learning</a>
+  <a class="md-button" href="/future-fluent/Tutorials/Prompt_Engineering/">Start Learning</a>
 </p>
+
+---
+
+!!! note ""
+
+    This course is fully open source 📖, meaning anyone can access and review the code. We believe AI should be accessible to everyone and explained in a clear, objective manner.

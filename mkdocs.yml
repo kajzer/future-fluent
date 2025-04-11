@@ -1,4 +1,5 @@
 site_name: Future Fluent
+site_author: Karol Jezierski
 site_url: https://kajzer.github.io/future-fluent/                 
 repo_url: https://github.com/kajzer/future-fluent
 repo_name: kajzer.github.io/future-fluent/
@@ -7,7 +8,7 @@ theme:
   name: material
   language: en
   font:
-    # text: Merriweather Sans
+    text: Roboto
     code: Red Hat Mono
   icon:
     logo: fontawesome/solid/robot
@@ -20,17 +21,30 @@ theme:
     - content.code.annotate
     - search.highlight
     - search.suggest
-  palette: 
-    - scheme: slate
+    - navigation.top
+    - navigation.tracking
+    - toc.follow
+    - content.tooltips
+    - content.action.edit
+    - content.action.view
+
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       toggle:
         icon: material/weather-sunny
-        name: Dark mode
+        name: Switch to light mode
       primary: deep purple
       accent: purple
-    - scheme: default
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       toggle:
         icon: material/weather-night
-        name: Light mode
+        name: Switch to system preference
       primary: teal
       accent: green
 
@@ -67,6 +81,8 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
+  - toc:
+      permalink: true
   - admonition
   - pymdownx.details
   - footnotes
@@ -74,19 +90,27 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Tutorials:
-    - Tutorials/index.md
     - Prompt Engineering:
-      - Basics:
-        - Tutorials/Prompt_Engineering/Basics/index.md
-        - Tutorials/Prompt_Engineering/Basics/getting_started.md
+      - Tutorials/Prompt_Engineering/index.md
+      - For Everyone:
+        - Tutorials/Prompt_Engineering/For_Everyone/index.md
+        - Tutorials/Prompt_Engineering/For_Everyone/getting_started.md
   - Docs:
+    - LLM: 
+      - Docs/LLM/index.md
     - Prompt Engineering:
-      - Docs/Prompt_Engineering/index.md
+      - Papers:
+        - Docs/Prompt_Engineering/Papers/index.md
 
 plugins:
-  - search
+  - search:
+      lang: 
+        - en
+        - pl
   # - tags
   - awesome-pages
+  - minify:
+      minify_html: true
   - i18n:
       docs_structure: folder
       languages:
@@ -100,4 +124,5 @@ plugins:
           nav_translations:
             Home: Strona Główna
             Tutorials: Tutoriale
-            Basics: Podstawy
+            For Everyone: Dla Każdego
+            Papers: Papery

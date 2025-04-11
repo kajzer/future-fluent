@@ -9,17 +9,23 @@ hide:
 </figure>
 
 <h1 align="center">
-Witaj w AI Engineering Mastery
+Odkryj swoją supermoc z pomocą sztucznej inteligencji! 🤖✨
 </h1>
 
 <h3 align="center">
-Doskonalenie Sztuki Konwersacyjnej AI i Efektywnego Pobierania Informacji
+Opanuj LLM'y: Wprowadzenie do Prompt Engineering, Agentów, RAG i No-Code
 </h3>
 ---
 <p align="center">
-W świecie napędzanym przez inteligentne systemy, Prompt Engineering oraz skuteczne wykorzystanie technik Retrieval-Augmented Generation (RAG) stanowią serce innowacji. Czy budujesz dynamicznych agentów, czy optymalizujesz modele językowe do precyzyjnych zadań - ten przewodnik dostarcza Ci wiedzy niezbędnej do odblokowania pełnego potencjału konwersacyjnej sztucznej inteligencji.
+Ten przewodnik to zbiór tutoriali, materiałów i ciekawych zasobów na temat inżynierii promptów, agentów AI, retrieval-augmented generation (RAG) oraz narzędzi no-code. Niezależnie od tego, czy dopiero zaczynasz, czy chcesz poszerzyć swoją wiedzę, znajdziesz tu przydatne linki, artykuły naukowe i praktyczne przykłady, które pomogą Ci lepiej zrozumieć świat AI. 🚀
 </p>
 
 <p align="center">
-  <a class="md-button" href="/future-fluent/pl/Tutorials">Zaczynajmy</a>
+  <a class="md-button" href="/future-fluent/pl/Tutorials/Prompt_Engineering/">Zaczynajmy</a>
 </p>
+
+---
+
+!!! note ""
+
+    Ten kurs jest w pełni open source 📖, co oznacza, że każdy może uzyskać dostęp do kodu i go przejrzeć. Wierzymy, że sztuczna inteligencja powinna być dostępna dla wszystkich i wyjaśniana w sposób jasny oraz obiektywny.
