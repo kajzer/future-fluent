@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://kajzer.github.io/future-fluent/</loc>
+        <lastmod>2025-05-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kajzer.github.io/future-fluent/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kajzer.github.io/future-fluent/pl/"/>
+    </url>
+    <url>
+        <loc>https://kajzer.github.io/future-fluent/Docs/LLM/Inference_and_Serving/</loc>
+        <lastmod>2025-05-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kajzer.github.io/future-fluent/Docs/LLM/Inference_and_Serving/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kajzer.github.io/future-fluent/pl/Docs/LLM/Inference_and_Serving/"/>
+    </url>
+    <url>
+        <loc>https://kajzer.github.io/future-fluent/Docs/LLM/Resources/</loc>
+        <lastmod>2025-05-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kajzer.github.io/future-fluent/Docs/LLM/Resources/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kajzer.github.io/future-fluent/pl/Docs/LLM/Resources/"/>
+    </url>
+    <url>
+        <loc>https://kajzer.github.io/future-fluent/Docs/Prompt_Engineering/Papers/</loc>
+        <lastmod>2025-05-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kajzer.github.io/future-fluent/Docs/Prompt_Engineering/Papers/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kajzer.github.io/future-fluent/pl/Docs/Prompt_Engineering/Papers/"/>
+    </url>
+    <url>
+        <loc>https://kajzer.github.io/future-fluent/Tutorials/Prompt_Engineering/</loc>
+        <lastmod>2025-05-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kajzer.github.io/future-fluent/Tutorials/Prompt_Engineering/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kajzer.github.io/future-fluent/pl/Tutorials/Prompt_Engineering/"/>
+    </url>
+    <url>
+        <loc>https://kajzer.github.io/future-fluent/Tutorials/Prompt_Engineering/For_Everyone/</loc>
+        <lastmod>2025-05-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kajzer.github.io/future-fluent/Tutorials/Prompt_Engineering/For_Everyone/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kajzer.github.io/future-fluent/pl/Tutorials/Prompt_Engineering/For_Everyone/"/>
+    </url>
+    <url>
+        <loc>https://kajzer.github.io/future-fluent/Tutorials/Prompt_Engineering/For_Everyone/getting_started/</loc>
+        <lastmod>2025-05-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kajzer.github.io/future-fluent/Tutorials/Prompt_Engineering/For_Everyone/getting_started/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kajzer.github.io/future-fluent/pl/Tutorials/Prompt_Engineering/For_Everyone/getting_started/"/>
+    </url>
+    <url>
+        <loc>https://kajzer.github.io/future-fluent/pl/</loc>
+        <lastmod>2025-05-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kajzer.github.io/future-fluent/pl/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kajzer.github.io/future-fluent/"/>
+    </url>
+    <url>
+        <loc>https://kajzer.github.io/future-fluent/pl/Docs/LLM/Inference_and_Serving/</loc>
+        <lastmod>2025-05-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kajzer.github.io/future-fluent/pl/Docs/LLM/Inference_and_Serving/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kajzer.github.io/future-fluent/Docs/LLM/Inference_and_Serving/"/>
+    </url>
+    <url>
+        <loc>https://kajzer.github.io/future-fluent/pl/Docs/LLM/Resources/</loc>
+        <lastmod>2025-05-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kajzer.github.io/future-fluent/pl/Docs/LLM/Resources/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kajzer.github.io/future-fluent/Docs/LLM/Resources/"/>
+    </url>
+    <url>
+        <loc>https://kajzer.github.io/future-fluent/pl/Docs/Prompt_Engineering/Papers/</loc>
+        <lastmod>2025-05-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kajzer.github.io/future-fluent/pl/Docs/Prompt_Engineering/Papers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kajzer.github.io/future-fluent/Docs/Prompt_Engineering/Papers/"/>
+    </url>
+    <url>
+        <loc>https://kajzer.github.io/future-fluent/pl/Tutorials/Prompt_Engineering/</loc>
+        <lastmod>2025-05-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kajzer.github.io/future-fluent/pl/Tutorials/Prompt_Engineering/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kajzer.github.io/future-fluent/Tutorials/Prompt_Engineering/"/>
+    </url>
+    <url>
+        <loc>https://kajzer.github.io/future-fluent/pl/Tutorials/Prompt_Engineering/For_Everyone/</loc>
+        <lastmod>2025-05-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kajzer.github.io/future-fluent/pl/Tutorials/Prompt_Engineering/For_Everyone/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kajzer.github.io/future-fluent/Tutorials/Prompt_Engineering/For_Everyone/"/>
+    </url>
+    <url>
+        <loc>https://kajzer.github.io/future-fluent/pl/Tutorials/Prompt_Engineering/For_Everyone/getting_started/</loc>
+        <lastmod>2025-05-08</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kajzer.github.io/future-fluent/pl/Tutorials/Prompt_Engineering/For_Everyone/getting_started/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kajzer.github.io/future-fluent/Tutorials/Prompt_Engineering/For_Everyone/getting_started/"/>
+    </url>
+</urlset>
