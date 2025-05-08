@@ -2,7 +2,7 @@
 
 ## Google Colab Notebook + HuggingFace
 
-If you just want the clean notebook you can follow this [link](https://colab.research.google.com/github/kajzer/future-fluent/blob/main/examples/notebooks/model_serving_colab_bnb_en.ipynb){:target="_blank"}
+If you just want the clean notebook you can follow this [link](https://github.com/kajzer/future-fluent/blob/master/examples/notebooks/model_serving_colab_bnb_en.ipynb){:target="_blank"}
 
 !!! warning "Colab Runtime"
     Before running the code, ensure that the Google Colab runtime is set to use a GPU.
