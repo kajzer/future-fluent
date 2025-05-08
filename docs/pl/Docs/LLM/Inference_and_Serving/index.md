@@ -2,7 +2,7 @@
 
 ## Google Colab Notebook + HuggingFace
 
-Jeśli chcesz tylko czysty notebook, skorzystaj z tego [linku](https://colab.research.google.com/github/kajzer/future-fluent/blob/main/examples/notebooks/model_serving_colab_bnb_pl.ipynb){:target="_blank"}
+Jeśli chcesz tylko czysty notebook, skorzystaj z tego [linku](https://github.com/kajzer/future-fluent/blob/master/examples/notebooks/model_serving_colab_bnb_pl.ipynb){:target="_blank"}
 
 !!! warning "Colab Runtime"
     Przed uruchomieniem kodu upewnij się, że środowisko wykonawcze Google Colab jest ustawione aby korzystać z akceleratora sprzetowego (np. GPU T4).
