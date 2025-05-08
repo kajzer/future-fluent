@@ -100,7 +100,7 @@ Inżynieria promtpów (Prompt Engineering) jest kluczem do odblokowania pełnego
         treści i rozwiązywaniu problemów.
         ```
 
---- 
+---
 
 ### **Do czego można wykorzystać inżynierię promptów (Prompt Engineering)?**
 
@@ -124,7 +124,7 @@ Chociaż inżynieria promptów jest stosunkowo nowym pojęciem, rozwijała się 
 
 W szybko zmieniającym się świecie sztucznej inteligencji, opanowanie inżynierii promptów pozwala każdemu maksymalizować produktywność, rozwiązywać problemy w innowacyjny sposób i pozostać o krok przed innymi w świecie, gdzie AI dynamicznie przekształca całe branże.
 
-[Najnowsze badania](../../Docs/Prompt_Engineering/Papers/index.md#prompting-science-report-1-prompt-engineering-is-complicated-and-contingent) pokazują, że drobne zmiany w sposobie formułowania lub formatowania prompta — takie jak konkretne formatowanie — mogą znacząco wpłynąć na jakość i dokładność odpowiedzi generowanych przez AI. 
+[Najnowsze badania](../../Docs/Prompt_Engineering/Papers/index.md#prompting-science-report-1-prompt-engineering-is-complicated-and-contingent) pokazują, że drobne zmiany w sposobie formułowania lub formatowania prompta — takie jak konkretne formatowanie — mogą znacząco wpłynąć na jakość i dokładność odpowiedzi generowanych przez AI.
 
 !!! quote
     Techniki takie jak uprzejmość i formatowanie dają niespójne rezultaty. Formatowanie zwykle poprawia wydajność, natomiast wpływ uprzejmości zależy od kontekstu i pytania.

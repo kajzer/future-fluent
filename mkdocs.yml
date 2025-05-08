@@ -96,8 +96,11 @@ nav:
         - Tutorials/Prompt_Engineering/For_Everyone/index.md
         - Tutorials/Prompt_Engineering/For_Everyone/getting_started.md
   - Docs:
-    - LLM: 
-      - Docs/LLM/index.md
+    - LLM:
+      - Inference and Serving:
+        - Docs/LLM/Inference_and_Serving/index.md
+      - Resources:
+        - Docs/LLM/Resources/index.md
     - Prompt Engineering:
       - Papers:
         - Docs/Prompt_Engineering/Papers/index.md
@@ -107,8 +110,8 @@ plugins:
       lang: 
         - en
         - pl
-  # - tags
   - awesome-pages
+  - glightbox
   - minify:
       minify_html: true
   - i18n:
@@ -126,3 +129,5 @@ plugins:
             Tutorials: Tutoriale
             For Everyone: Dla Każdego
             Papers: Papery
+            Resources: Materiały
+            Docs: Materiały
